@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/modal-overlay/static/css/main.b73d9e7b.css",
+    "main.js": "/modal-overlay/static/js/main.b594e266.js",
+    "index.html": "/modal-overlay/index.html",
+    "main.b73d9e7b.css.map": "/modal-overlay/static/css/main.b73d9e7b.css.map",
+    "main.b594e266.js.map": "/modal-overlay/static/js/main.b594e266.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b73d9e7b.css",
+    "static/js/main.b594e266.js"
+  ]
+}
